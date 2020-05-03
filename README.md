@@ -128,7 +128,7 @@ RESULTS:
 To check its actual results we now test it working. For this, we go to client browser , type the IP of Joomla container which you can find by doing : docker inspect docker_id | grep IP . enter this in search bar of browser and if you see the home page of Joomla like the picture below: Result Result Result
 
 In the last image you can see both of containers running.
-DOWN!!
+DOWN!!!
 Now if we want to terminate the whole infrastructure we can use
 
 docker-compose down
