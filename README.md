@@ -92,7 +92,7 @@ Remember : NOT TO GIVE SPACE BETWEEN -p AND password.
 Through this we now know how to set up mysql at both server and client side.
 
 P.S. - Working with joomla is easy so we will directly configure it in docker-compose file.
-Result Result
+Result Result.
 
 DOCKER COMPOSE
 Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. Define the services that make up your app in docker-compose.yml so they can be run together in an isolated environment. Run docker-compose up and Compose starts and runs your entire app.
